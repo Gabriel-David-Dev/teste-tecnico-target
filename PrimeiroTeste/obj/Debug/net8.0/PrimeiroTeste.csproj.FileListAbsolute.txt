@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\bin\Debug\net8.0\PrimeiroTeste.exe
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\bin\Debug\net8.0\PrimeiroTeste.deps.json
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\bin\Debug\net8.0\PrimeiroTeste.runtimeconfig.json
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\bin\Debug\net8.0\PrimeiroTeste.dll
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\bin\Debug\net8.0\PrimeiroTeste.pdb
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\obj\Debug\net8.0\PrimeiroTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\obj\Debug\net8.0\PrimeiroTeste.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\obj\Debug\net8.0\PrimeiroTeste.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\obj\Debug\net8.0\PrimeiroTeste.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\obj\Debug\net8.0\PrimeiroTeste.dll
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\obj\Debug\net8.0\refint\PrimeiroTeste.dll
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\obj\Debug\net8.0\PrimeiroTeste.pdb
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\obj\Debug\net8.0\PrimeiroTeste.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\TargetSistemas\PrimeiroTeste\obj\Debug\net8.0\ref\PrimeiroTeste.dll

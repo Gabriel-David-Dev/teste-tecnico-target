@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\bin\Debug\net8.0\SegundoTeste.exe
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\bin\Debug\net8.0\SegundoTeste.deps.json
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\bin\Debug\net8.0\SegundoTeste.runtimeconfig.json
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\bin\Debug\net8.0\SegundoTeste.dll
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\bin\Debug\net8.0\SegundoTeste.pdb
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\obj\Debug\net8.0\SegundoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\obj\Debug\net8.0\SegundoTeste.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\obj\Debug\net8.0\SegundoTeste.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\obj\Debug\net8.0\SegundoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\obj\Debug\net8.0\SegundoTeste.dll
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\obj\Debug\net8.0\refint\SegundoTeste.dll
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\obj\Debug\net8.0\SegundoTeste.pdb
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\obj\Debug\net8.0\SegundoTeste.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\TargetSistemas\SegundoTeste\obj\Debug\net8.0\ref\SegundoTeste.dll

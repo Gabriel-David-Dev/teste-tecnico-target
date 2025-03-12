@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\bin\Debug\net8.0\QuartoTeste.exe
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\bin\Debug\net8.0\QuartoTeste.deps.json
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\bin\Debug\net8.0\QuartoTeste.runtimeconfig.json
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\bin\Debug\net8.0\QuartoTeste.dll
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\bin\Debug\net8.0\QuartoTeste.pdb
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\obj\Debug\net8.0\QuartoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\obj\Debug\net8.0\QuartoTeste.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\obj\Debug\net8.0\QuartoTeste.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\obj\Debug\net8.0\QuartoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\obj\Debug\net8.0\QuartoTeste.dll
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\obj\Debug\net8.0\refint\QuartoTeste.dll
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\obj\Debug\net8.0\QuartoTeste.pdb
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\obj\Debug\net8.0\QuartoTeste.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\TargetSistemas\QuartoTeste\obj\Debug\net8.0\ref\QuartoTeste.dll

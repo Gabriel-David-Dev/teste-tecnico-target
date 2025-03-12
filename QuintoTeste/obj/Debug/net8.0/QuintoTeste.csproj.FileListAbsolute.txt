@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\bin\Debug\net8.0\QuintoTeste.exe
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\bin\Debug\net8.0\QuintoTeste.deps.json
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\bin\Debug\net8.0\QuintoTeste.runtimeconfig.json
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\bin\Debug\net8.0\QuintoTeste.dll
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\bin\Debug\net8.0\QuintoTeste.pdb
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\obj\Debug\net8.0\QuintoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\obj\Debug\net8.0\QuintoTeste.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\obj\Debug\net8.0\QuintoTeste.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\obj\Debug\net8.0\QuintoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\obj\Debug\net8.0\QuintoTeste.dll
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\obj\Debug\net8.0\refint\QuintoTeste.dll
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\obj\Debug\net8.0\QuintoTeste.pdb
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\obj\Debug\net8.0\QuintoTeste.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\TargetSistemas\QuintoTeste\obj\Debug\net8.0\ref\QuintoTeste.dll
